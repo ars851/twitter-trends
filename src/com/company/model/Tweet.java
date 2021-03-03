@@ -3,7 +3,7 @@ package com.company.model;
 import java.time.LocalDate;
 
 public class Tweet {
-
+// 123
     private String tweetContent;
     private Double latitude;
     private Double longitude;
